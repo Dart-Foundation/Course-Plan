@@ -64,10 +64,6 @@ Module 1: Dart Programming Language Basics, divided into 8 weeks, with each less
 - **Day 3:** Practical Use Cases for Maps
   - Practical: Solve problems using maps, such as storing key-value pairs.
 
-Each day's practical part should include coding exercises and assignments related to the topics covered in that lesson. This course plan provides a structured approach to teaching Dart basics while ensuring hands-on learning opportunities for your students throughout the 8-week duration of Module 1.
-
-
-Certainly, here's a course plan for Module 2: Object-Oriented Programming (OOP) and Advanced Programming, divided into 4 weeks, with each lesson including a practical part:
 
 **Module 2: Object-Oriented Programming (OOP) and Advanced Programming (4 Weeks)**
 
@@ -104,7 +100,3 @@ Certainly, here's a course plan for Module 2: Object-Oriented Programming (OOP) 
   - Practical: Have students present their final projects to the class.
 - **Day 5:** Graduation and Course Recap
   - Practical: Celebrate the successful completion of the course and review key concepts.
-
-In Module 2, students will delve into advanced topics, including advanced OOP concepts, concurrency, testing, and debugging. Each lesson will include practical exercises and assignments to reinforce the material and provide students with opportunities to apply what they've learned.
-
-Feel free to adjust the topics and content to better suit your teaching style and the needs of your students. This course plan is designed to provide a structured and hands-on learning experience for your students in Module 2.
